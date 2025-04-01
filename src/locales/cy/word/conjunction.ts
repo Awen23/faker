@@ -1,0 +1,15 @@
+export default [
+  'a',
+  'ac',
+  'bod',
+  'cyn',
+  'er',
+  'fel',
+  'gan',
+  'hyd',
+  'neu',
+  'oherwydd',
+  'ond',
+  'os',
+  'pan',
+];

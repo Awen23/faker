@@ -5,6 +5,7 @@
 import type { LocaleDefinition } from '../..';
 import date from './date';
 import metadata from './metadata';
+import word from './word';
 
 /**
  * The locale data for the `cy` locale.
@@ -15,6 +16,7 @@ import metadata from './metadata';
 const cy: LocaleDefinition = {
   date,
   metadata,
+  word,
 };
 
 export default cy;
