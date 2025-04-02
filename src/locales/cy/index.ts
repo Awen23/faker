@@ -6,6 +6,7 @@ import type { LocaleDefinition } from '../..';
 import animal from './animal';
 import color from './color';
 import date from './date';
+import location from './location';
 import metadata from './metadata';
 import word from './word';
 
@@ -19,6 +20,7 @@ const cy: LocaleDefinition = {
   animal,
   color,
   date,
+  location,
   metadata,
   word,
 };

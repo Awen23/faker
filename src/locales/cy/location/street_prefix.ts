@@ -1,0 +1,16 @@
+export default [
+  'Bryn',
+  'Cae',
+  'Clos',
+  'Cwm',
+  'Ffordd',
+  'Glan',
+  'Heol',
+  'Lon',
+  'Lôn',
+  'Parc',
+  'Pen',
+  'Rhodfa',
+  'Stryd',
+  'Teras',
+];
