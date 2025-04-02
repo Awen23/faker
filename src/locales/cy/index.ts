@@ -3,6 +3,8 @@
  * Run 'pnpm run generate:locales' to update.
  */
 import type { LocaleDefinition } from '../..';
+import animal from './animal';
+import color from './color';
 import date from './date';
 import metadata from './metadata';
 import word from './word';
@@ -14,6 +16,8 @@ import word from './word';
  * - Endonym: Cymraeg
  */
 const cy: LocaleDefinition = {
+  animal,
+  color,
   date,
   metadata,
   word,
