@@ -8,6 +8,7 @@ import color from './color';
 import date from './date';
 import location from './location';
 import metadata from './metadata';
+import person from './person';
 import word from './word';
 
 /**
@@ -22,6 +23,7 @@ const cy: LocaleDefinition = {
   date,
   location,
   metadata,
+  person,
   word,
 };
 
