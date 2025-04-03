@@ -9,6 +9,7 @@ import date from './date';
 import location from './location';
 import metadata from './metadata';
 import person from './person';
+import phone_number from './phone_number';
 import word from './word';
 
 /**
@@ -24,6 +25,7 @@ const cy: LocaleDefinition = {
   location,
   metadata,
   person,
+  phone_number,
   word,
 };
 
